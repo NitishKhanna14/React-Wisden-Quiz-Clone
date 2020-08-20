@@ -1,0 +1,28 @@
+[
+    {
+    "name": "steve smith",
+    "country":"Australia",
+    "cond":false
+}
+    ,
+  {
+    "name": "virat kohli",
+    "country":"India",
+    "cond":false
+},
+{
+  "name": "joe root",
+  "country":"England",
+  "cond":false
+},
+{
+  "name": "kane williamson",
+  "country":"New Zealand",
+  "cond":false
+},
+ {
+    "name": "babar azam",
+    "country":"Pakistan",
+    "cond":false
+}
+  ]
