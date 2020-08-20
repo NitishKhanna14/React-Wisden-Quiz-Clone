@@ -17,6 +17,10 @@ db.once("open", ()=> console.log("DB created"))
 
 app.use(express.json())
 
+app.get('/',(req,res)=>{
+    res.send("Hello")
+})
+
 const playerRouter = require("./routes/players")
 app.use('/players',playerRouter) 
 
